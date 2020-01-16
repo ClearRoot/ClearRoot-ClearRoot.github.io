@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clear Root</title>
-    <link>http://clearroot.github.io/</link>
-    <description>Recent content on Clear Root</description>
+    <title>Development on Clear Root</title>
+    <link>http://clearroot.github.io/categories/development/</link>
+    <description>Recent content in Development on Clear Root</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2020 13:48:40 +0900</lastBuildDate>
     
-	<atom:link href="http://clearroot.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://clearroot.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
